@@ -1,1 +1,1 @@
-# odin-rock-paper-scissors
+Project: rock-Paper-Scissors.
